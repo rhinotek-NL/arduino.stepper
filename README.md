@@ -10,4 +10,5 @@ Equipmet you need
 6- stepper motors 
 7- connectors and cables to connect stepper motors with drivers
 8- 6mm acrylic sheet approximatly 2ft x 1ft need to process through cnc lasercut by using pdf files
+to convert pdf files into cdr files you can import these files into corel draw
 
